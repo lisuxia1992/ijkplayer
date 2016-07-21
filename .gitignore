@@ -39,3 +39,22 @@ xcuserdata
 xcshareddata
 *.xccheckout
 
+ios/合成后的framework/IJKMediaFramework.framework/_CodeSignature/CodeDirectory
+ios/合成后的framework/IJKMediaFramework.framework/_CodeSignature/CodeRequirements
+ios/合成后的framework/IJKMediaFramework.framework/_CodeSignature/CodeRequirements-1
+ios/合成后的framework/IJKMediaFramework.framework/_CodeSignature/CodeResources
+ios/合成后的framework/IJKMediaFramework.framework/_CodeSignature/CodeSignature
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKAVMoviePlayerController.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKFFMonitor.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKFFMoviePlayerController.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKFFOptions.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKKVOController.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKMediaFramework.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKMediaModule.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKMediaPlayback.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKMediaPlayer.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKMPMoviePlayerController.h
+ios/合成后的framework/IJKMediaFramework.framework/Headers/IJKNotificationManager.h
+ios/合成后的framework/IJKMediaFramework.framework/IJKMediaFramework
+ios/合成后的framework/IJKMediaFramework.framework/Modules/module.modulemap
+
